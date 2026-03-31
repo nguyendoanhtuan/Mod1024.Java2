@@ -2,7 +2,7 @@ package mainPackage;
 import java.util.ArrayList;
 import entity.*;
 
-public class mainLab1 {
+public class mainLab1_1 {
 	public static void main(String[] args) {
 		ArrayList<Product> listProduct = new ArrayList<Product>();
 		
